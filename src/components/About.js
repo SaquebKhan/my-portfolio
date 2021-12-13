@@ -42,7 +42,7 @@ export default function About() {
                     />
                     <div className="text-lg flex flex-col justify-center">
                         <h1 className="cursive text-6xl text-blue-300 mb-4">
-                            Hey there. I'm{" "}
+                            Hello! I'm{" "}
                             <span className="text-blue-100">{author.name}</span>
                             !</h1>
                         <p className="text-blue-200 text-lg">{author.bio}</p>
