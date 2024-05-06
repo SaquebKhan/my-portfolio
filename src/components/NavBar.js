@@ -60,7 +60,7 @@ export default function NavBar() {
                     fgColor="#fff"
                     style={{ height: 35, width: 35 }} />
                     <SocialIcon
-                    url="https://docs.google.com/document/d/1kFzuxh4sJ4Z3GZ2_mizVoDgK6AMX5BGl/edit?usp=sharing"
+                    url="https://docs.google.com/document/d/1joPowzOr--gQ15L9epIXPJYtheRSIPfs/edit?usp=sharing&ouid=117751523230155035271&rtpof=true&sd=true"
                     className="mr-4"
                     target="_blank"
                     fgColor="#fff"
